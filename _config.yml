@@ -13,7 +13,8 @@ author: Daniel Klco
 baseurl: /Jekyll-Disqus-Forum
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://klcodanr.github.io/Jekyll-Disqus-Forum
+# url: http://klcodanr.github.io/Jekyll-Disqus-Forum
+url: https://bulusuk.github.io/forum/
 
 # Exclude system files
 exclude: [.gitignore]
