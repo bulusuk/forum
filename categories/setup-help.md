@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Setup Help
+title: Undergraduate fluids 
 category: true
 summary: Get help setting up the Jekyll Disqus Forum
 id: 2736938
