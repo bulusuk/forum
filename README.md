@@ -1,2 +1,2 @@
 # test-forum
-Testing a discuss forum
+Testing a discussion forum
